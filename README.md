@@ -1,4 +1,3 @@
-### 🏄‍♂️ Peter Pileta
 # Hi there 👋
 
 I'm a front end developer who is passionate about creating beautiful and functional web applications. I have skills in **react**, **nextjs**, **redux**, **css**, **js**, **git**, and **vite**.
